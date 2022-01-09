@@ -8,3 +8,8 @@ Bandwidth Network Monitor Screenshot
 
 Bandwidth Network Monitor Console Screenshot
 ![Screenshot](Media/BandwidthNetworkMonitorConsole.PNG)
+
+# Technologies Used
+- C#
+- WPF
+- MVVM
